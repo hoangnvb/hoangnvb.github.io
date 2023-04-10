@@ -1,0 +1,17 @@
+a:hover{
+    background-color: red;
+}
+.b:hover{
+    background-color: red;
+}
+.magin-left{
+margin-top: -20em;
+margin-bottom: 13em;
+}
+.hh{
+font-size: 30px;
+text-align: center;
+}
+.border{
+border: 1px solid gray;
+}
